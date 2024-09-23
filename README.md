@@ -1,2 +1,2 @@
-# TewiMPRelease
-TewiMP Release versions
+# TewiMP-Release
+TewiMP Release page
